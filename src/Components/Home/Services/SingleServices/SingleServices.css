@@ -1,0 +1,6 @@
+.effect {
+  transition: all 0.2s linear;
+}
+.effect-main:hover .effect {
+  transform: translateY(-10px);
+}

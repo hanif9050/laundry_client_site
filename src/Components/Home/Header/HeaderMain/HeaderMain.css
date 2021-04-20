@@ -1,0 +1,18 @@
+.header-main {
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("../../../../images/header_bk.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 800px;
+  position: relative;
+}
+.header-info {
+  position: relative;
+}
+.header-text {
+  position: absolute;
+  color: aliceblue;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}

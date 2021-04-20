@@ -1,0 +1,14 @@
+.cutom-style {
+}
+.footer {
+  min-height: 2rem;
+  background-color: black;
+  padding: 1rem;
+  color: white;
+}
+.cutom-style li,
+.cutom-style a {
+  list-style-type: none;
+  text-decoration: none;
+  color: white;
+}
